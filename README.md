@@ -13,3 +13,7 @@
 - 의사결정나무(Decision Tree)
 - 차원축소 (PCA)
 - 군집 (Clustering)
+
+## 딥러닝 (Deep Learning)
+- Convolution Neural Networks (CNN)
+- Recurrent Neural Networks (RNN)
