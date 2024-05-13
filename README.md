@@ -15,5 +15,5 @@
 - 군집 (Clustering)
 
 ## 딥러닝 (Deep Learning)
-- Convolution Neural Networks (CNN)
+- Convolutional Neural Networks (CNN)
 - Recurrent Neural Networks (RNN)
