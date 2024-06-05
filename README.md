@@ -1,4 +1,4 @@
-# Machine Learning 스터디
+# Machine Learning / Deep Learning Study
 
 ## 머신러닝 (Machine Learning)
 - 경사하강법 (Gradient Descent)
@@ -17,3 +17,4 @@
 ## 딥러닝 (Deep Learning)
 - Convolutional Neural Networks (CNN)
 - Recurrent Neural Networks (RNN)
+- AutoEncoder
