@@ -1,13 +1,12 @@
-# Machine Learning / Deep Learning Study
+# Machine Learning / Deep Learning Practice with Kaggle
 
 ## 머신러닝 (Machine Learning)
 ### 지도학습
-- 로지스틱 회귀(Logistic Regression)
-- Support Vector Machine (SVM)
-- KNN (K-Nearest Neighbors)
+- 분류 (Classification)
+- 회귀 (Regression)
 ### 비지도학습
-- 차원축소 (PCA)
 - 군집 (Clustering)
+- 차원축소 (Dimension Reduction)
 
 ## 딥러닝 (Deep Learning)
 - Convolutional Neural Networks (CNN)
